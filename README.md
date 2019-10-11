@@ -40,9 +40,9 @@ Two SMD jumpers are provided on the board. In case you want to use UART interfac
 ---
 ### Features
 - CR95HF IC
--- Operating modes supported: Reader/Writer
--- RF communication @13.56 MHz
--- Supports NFC Forum Type 1, 2, 3 and 4 tags
+  - Operating modes supported: Reader/Writer
+  - RF communication @13.56 MHz
+  - Supports NFC Forum Type 1, 2, 3 and 4 tags
 - 3.3V power supply
 - Interface: UART, SPI
 
