@@ -1,6 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![RFid click](https://cdn1-shop.mikroe.com/img/product/rfid-click/rfid-click-large_default-12x.jpg)
+![RFid click](https://libstock.mikroe.com/img/projects/21707/739/1373377053_rfid-cli_thumb.jpg)
 
 # Click_RFid_PN1434
 Library for RFid click board 1434 (https://www.mikroe.com/rfid-click).
